@@ -1,0 +1,3 @@
+inference infer https://source.roboflow.com/t67PbeWi7HWdrcOK98IS1S6iiq32/007bZtcngEtdqrmcx2jC/original.jpg \
+--api-key pZp8XYMbuLmPvPlUEnoD \
+--project-id human-fall --model-version 2
